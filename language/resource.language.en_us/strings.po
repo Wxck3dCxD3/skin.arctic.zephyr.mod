@@ -2636,3 +2636,7 @@ msgstr ""
 #~ msgctxt "#31007"
 #~ msgid "Titel-overlays (symbole-view)"
 #~ msgstr "Titel-overlays (symbole-view)"
+
+msgctxt "#31719"
+msgid "Clean, minimal, elegant, simple, light."
+msgstr ""

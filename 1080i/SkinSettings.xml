@@ -3191,7 +3191,7 @@
                         <font>Tiny</font>
                         <textcolor>PanelWhite70</textcolor>
                         <scroll>true</scroll>
-                        <label>19055</label>
+                        <label>$LOCALIZE[31719]</label>
                     </control>
                 </control>
             </control>
